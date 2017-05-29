@@ -12,6 +12,7 @@
 		0764B9031ED2E23A0040F138 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0764B9011ED2E23A0040F138 /* Main.storyboard */; };
 		0764B9051ED2E23A0040F138 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0764B9041ED2E23A0040F138 /* Assets.xcassets */; };
 		0764B9081ED2E23A0040F138 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0764B9061ED2E23A0040F138 /* LaunchScreen.storyboard */; };
+		0764B9101ED2E25C0040F138 /* zing-mp3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0764B90F1ED2E25C0040F138 /* zing-mp3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0764B9041ED2E23A0040F138 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0764B9071ED2E23A0040F138 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0764B9091ED2E23A0040F138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0764B90F1ED2E25C0040F138 /* zing-mp3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "zing-mp3.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				0764B8FD1ED2E23A0040F138 /* AppDelegate.swift */,
+				0764B90F1ED2E25C0040F138 /* zing-mp3.jpg */,
 				0764B8FF1ED2E23A0040F138 /* ViewController.swift */,
 				0764B9011ED2E23A0040F138 /* Main.storyboard */,
 				0764B9041ED2E23A0040F138 /* Assets.xcassets */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0764B9101ED2E25C0040F138 /* zing-mp3.jpg in Resources */,
 				0764B9081ED2E23A0040F138 /* LaunchScreen.storyboard in Resources */,
 				0764B9051ED2E23A0040F138 /* Assets.xcassets in Resources */,
 				0764B9031ED2E23A0040F138 /* Main.storyboard in Resources */,
